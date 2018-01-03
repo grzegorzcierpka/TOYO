@@ -1,0 +1,10 @@
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\bin\Debug\CSV_TO_SQL.exe.config
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\bin\Debug\CSV_TO_SQL.exe
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\bin\Debug\CSV_TO_SQL.pdb
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.Form1.resources
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.Properties.Resources.resources
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.csproj.GenerateResource.Cache
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.csproj.CoreCompileInputs.cache
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.exe
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.pdb
+C:\Users\ZPSA\source\repos\CSV_TO_SQL\CSV_TO_SQL\obj\Debug\CSV_TO_SQL.csprojResolveAssemblyReference.cache
